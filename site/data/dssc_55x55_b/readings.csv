@@ -5750,3 +5750,16 @@ timestamp,raw,voltage_mV,voltage_V,ambient_temp_C,humidity_pct,pressure_hPa,lux,
 2026-10-28T08:15:18+08:00,823.7,230.0,0.23,27.37,53.6,1022.9,1010.8,58.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
 2026-10-28T08:17:48+08:00,825.4,230.5,0.2305,27.28,54.04,1023.04,1010.0,60.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
 2026-10-28T08:20:19+08:00,825.4,230.0,0.23,27.38,53.81,1022.87,1010.0,59.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:43:40+08:00,886.6,247.2,0.2472,29.83,61.08,1020.83,1401.7,61.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:46:11+08:00,885.9,248.0,0.248,29.81,60.56,1020.98,1409.2,63.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:48:42+08:00,887.0,247.6,0.2476,29.88,60.38,1021.15,1410.8,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:51:13+08:00,886.4,247.6,0.2476,29.79,60.04,1021.18,1401.7,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:53:43+08:00,886.8,247.6,0.2476,29.86,59.74,1021.1,1403.3,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:56:14+08:00,887.2,248.4,0.2484,29.79,59.68,1021.26,1410.8,63.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T17:58:45+08:00,887.9,247.5,0.2475,29.78,59.55,1021.21,1410.0,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:01:16+08:00,889.0,248.4,0.2484,29.81,59.77,1021.32,1410.8,63.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:03:46+08:00,886.3,247.8,0.2478,29.82,59.79,1021.32,1397.5,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:06:17+08:00,887.0,247.9,0.2479,29.88,59.36,1021.32,1399.2,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:08:48+08:00,887.1,247.6,0.2476,29.86,59.26,1021.46,1399.2,64.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:11:18+08:00,887.1,247.9,0.2479,29.82,59.55,1021.49,1398.3,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
+2026-11-08T18:13:49+08:00,885.1,247.5,0.2475,29.86,59.14,1021.55,1398.3,62.5,sht20,bh1750,fixed_position_sensor_facing_light,included,included,esp32c3-64e833b913b8,dssc_55x55_b,2
