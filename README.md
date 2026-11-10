@@ -1,4 +1,4 @@
-# Solar Oracle Walkman - IV Voiceprint Smart Contract
+# Solar Oracle Walkman DSSC Enrollment and Verification Library
 A smart contract that validates and stores IV voiceprints data of DIY solar cells and keep the measurements record on chain.
 
 ## Project Brief for Reviewers
