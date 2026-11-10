@@ -815,7 +815,7 @@
   "display_name": "DSSC 55x55 A",
   "first_observed_at": "2026-09-03T20:49:35+08:00",
   "first_valid_at": "2026-09-03T20:49:35+08:00",
-  "generated_at": "2026-11-10T00:15:04+08:00",
+  "generated_at": "2026-11-11T00:15:05+08:00",
   "gpio": 3,
   "invalid_sample_count": 3390,
   "latest": {
@@ -832,7 +832,7 @@
     "valid": true,
     "voltage_mV": 338.8
   },
-  "latest_age_minutes": 1801.3,
+  "latest_age_minutes": 3241.3,
   "quality_policy": {
     "boundary_precision": "date only, Asia/Taipei; full dates conservatively excluded, not an exact unplug time",
     "confirmed_reconnected_at": "2026-10-14T18:33:00+08:00",
